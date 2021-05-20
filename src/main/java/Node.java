@@ -4,7 +4,7 @@ public class Node {
     private Node rightChild;
 
     public void printNode() {
-        System.out.println(" Выбранный узел имеет значение :" + value);
+        System.out.println("Выбранный узел имеет значение: " + value);
     }
 
     public int getValue() {
